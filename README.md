@@ -1,3 +1,3 @@
 # Myfirstrepo
 This is my first github repository.
-Author - Rakshith  B N
+Author - Rakshith B N
