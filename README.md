@@ -1,4 +1,4 @@
 # Myfirstrepo
 This is my first github repository.
 Author - Rakshith B N
-removed space in between initials
+removed space in between initial
